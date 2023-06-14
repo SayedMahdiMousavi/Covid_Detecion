@@ -1,3 +1,13 @@
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
 *.log
 error.log
+
+lib/
+lib64/
+
+.env
+.venv
+env/
+venv/
