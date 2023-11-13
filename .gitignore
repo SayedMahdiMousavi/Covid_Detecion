@@ -11,3 +11,4 @@ lib64/
 .venv
 env/
 venv/
+data/
