@@ -1,4 +1,4 @@
-# Covid_Detecion
+# Covid Detecion
 In this repository, we read a dataset of X-ray images, which includes classes: Covid, Normal, Lung Opacity and Viral Pneumonia.
 Then we classify the data using different networks such as Cnn, EffiecientNet_V2_S, Swin Transformer and CnnTransformer.
 EffiecientNet_V2_S and Swin Transformer networks are trained by fine tune or transfer learning method and Cnn and CnnTransformer networks are trained with initial weights.
@@ -35,7 +35,7 @@ The reason why images from different datasets were used is to improve the data d
 |     EffiecientNet_V2_S    |     0.05     |     0.14          |     0.17    |
 |     Swin Transformer      |     0.9      |     0.15          |     0.17    |
 
-## number of parameters
+## Number of parameters
 |               |     CnnTransformer    |     Cnn          |     EffiecientNet    |     Swin Transformer    |
 |---------------|-----------------------|------------------|----------------------|-------------------------|
 |     Params    |     11,276,804        |     1,554,948    |     20,182,612       |     27,522,430          |
