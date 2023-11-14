@@ -1,3 +1,4 @@
+![3709054](https://github.com/SayedMahdiMousavi/Covid_Detecion/assets/56066734/272796fb-bebe-470f-b559-ab9c84f5f8d7)
 # Covid Detecion
 In this repository, we read a dataset of X-ray images, which includes classes: Covid, Normal, Lung Opacity and Viral Pneumonia.
 Then we classify the data using different networks such as Cnn, EffiecientNet_V2_S, Swin Transformer and CnnTransformer.
@@ -12,7 +13,8 @@ The reason why images from different datasets were used is to improve the data d
 
 
 ## Block Diagram CnnTransformer
-![block_diagram_cnntransformer3](https://github.com/SayedMahdiMousavi/Covid_Detecion/assets/56066734/c551e47e-72b2-4f16-a49f-fb16eaa50cba)
+
+![block_diagram_cnntransformer3](https://github.com/SayedMahdiMousavi/Covid_Detecion/assets/56066734/20b168a6-889d-41b0-a469-1627fd62273b)
 
 
 
