@@ -4,7 +4,9 @@ Here we only train the last layer of the resnet18 network and in other words we 
 
 ## Dataste
 The dataset that has been trained and evaluated with that model is the dataset of x-ray images. This dataset contains 25,103 images and includes four classes: Covid, Normal, Lung Opacity and Viral Pneumonia.
+
 21,165 images are related to the <a href='https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database'>COVID-19 Radiography Database</a>, and 317 images are related to the <a href='https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset'>Covid-19 Image dataset</a>, and 3,621 images are also related to the <a href='https://www.kaggle.com/datasets/unaissait/curated-chest-xray-image-dataset-for-covid19'>Curated Chest X-Ray Image Dataset for COVID-19</a>.
+
 The reason why images from different datasets were used is to improve the data distribution of each class to avoid biasing the model or network on one of the classes.
 
 
