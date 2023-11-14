@@ -1,6 +1,7 @@
 # Covid_Detecion
-In this program, we read a dataset of x-ray images that includes classes: Normal, Covid and Viral, and then we categorize the data using the resnet18 network.
-Here we only train the last layer of the resnet18 network and in other words we train the network using the transfer learning method.
+In this repository, we read a dataset of X-ray images, which includes classes: Covid, Normal, Lung Opacity and Viral Pneumonia.
+Then we classify the data using different networks such as Cnn, EffiecientNet_V2_S, Swin Transformer and CnnTransformer.
+EffiecientNet_V2_S and Swin Transformer networks are trained by fine tune or transfer learning method and Cnn and CnnTransformer networks are trained with initial weights.
 
 ## Dataste
 The dataset that has been trained and evaluated with that model is the dataset of x-ray images. This dataset contains 25,103 images and includes four classes: Covid, Normal, Lung Opacity and Viral Pneumonia.
