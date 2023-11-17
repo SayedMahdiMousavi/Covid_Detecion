@@ -9,6 +9,8 @@ The dataset that has been trained and evaluated with that model is the dataset o
 
 21,165 images are related to the <a href='https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database'>COVID-19 Radiography Database</a>, and 317 images are related to the <a href='https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset'>Covid-19 Image dataset</a>, and 3,621 images are also related to the <a href='https://www.kaggle.com/datasets/unaissait/curated-chest-xray-image-dataset-for-covid19'>Curated Chest X-Ray Image Dataset for COVID-19</a>.
 
+![output](https://github.com/SayedMahdiMousavi/Covid_Detecion/assets/56066734/2e8559e8-7558-44db-b40a-4d3a79ec0dcf)
+
 The reason why images from different datasets were used is to improve the data distribution of each class to avoid biasing the model or network on one of the classes.
 
 
