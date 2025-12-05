@@ -41,7 +41,7 @@ The reason why images from different datasets were used is to improve the data d
 |     Cnn                   |     0.24     |     0.25          |     0.3     |
 |     EffiecientNet_V2_S    |     0.05     |     0.14          |     0.17    |
 |     Swin Transformer      |     0.9      |     0.15          |     0.17    |
-|     EfficientTransformer  |     0.4      |     0.13          |     0.13    |
+|     EfficientTransformer  |     0.04      |     0.11          |     0.11    |
 
 ## Number of parameters
 |           |     CnnTransformer    |     Cnn      |   EffiecientNet  |     Swin Transformer    |   EfficientTransformer  |
