@@ -3,6 +3,7 @@
 In this repository, we read a dataset of X-ray images, which includes classes: Covid, Normal, Lung Opacity and Viral Pneumonia.
 Then we classify the data using different networks such as Cnn, EffiecientNet_V2_S, Swin Transformer and CnnTransformer.
 EffiecientNet_V2_S and Swin Transformer networks are trained by fine tune or transfer learning method and Cnn and CnnTransformer networks are trained with initial weights.
+The EfficientTransformer network consists of a part of the EffiecientNet_V2_S network and the Encoder layer of the Transformer network, and this network is trained only on the <a href='https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database'>COVID-19 Radiography Database</a>.
 
 ## Dataste
 The dataset that has been trained and evaluated with that model is the dataset of x-ray images. This dataset contains 25,103 images and includes four classes: Covid, Normal, Lung Opacity and Viral Pneumonia.
