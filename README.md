@@ -19,8 +19,7 @@ The reason why images from different datasets were used is to improve the data d
 ![block_diagram_cnntransformer3](https://github.com/SayedMahdiMousavi/Covid_Detecion/assets/56066734/20b168a6-889d-41b0-a469-1627fd62273b)
 
 ## Block Diagram EfficientTransformer
-![block_diagram_EfficientTransformer](D:\github\Covid_Detecion\.ipynb_checkpoints\evaluation_model_block_diagram.png)
-
+![block_diagram_EfficientTransformer](evaluation_model_block_diagram.png)
 
 ## Results
 
@@ -41,7 +40,7 @@ The reason why images from different datasets were used is to improve the data d
 |     Cnn                   |     0.24     |     0.25          |     0.3     |
 |     EffiecientNet_V2_S    |     0.05     |     0.14          |     0.17    |
 |     Swin Transformer      |     0.9      |     0.15          |     0.17    |
-|     EfficientTransformer  |     0.04     |     0.13          |     0.13    |
+|     EfficientTransformer  |     0.4      |     0.13          |     0.13    |
 
 ## Number of parameters
 |           |     CnnTransformer    |     Cnn      |   EffiecientNet  |     Swin Transformer    |   EfficientTransformer  |
